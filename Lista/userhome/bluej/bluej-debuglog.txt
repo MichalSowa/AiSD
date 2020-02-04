@@ -1,0 +1,166 @@
+BlueJ run started: Sun Mar 17 12:31:42 CET 2019
+BlueJ version 4.2.0
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files (x86)\bluej\jdk
+----
+Detected language "polish" based on iso639-2 code "pol"
+Internal error: Unable to load definitions file: C:\Program Files (x86)\bluej\lib\polish\labels
+Opening project: C:\Users\Jan\Desktop\Programowanie\AiSD\Listy
+1552822315446: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: userhome\bluej\import-cache.xml (Nie mo¿na odnaleŸæ okreœlonego pliku)
+mar 17, 2019 12:36:53 PM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files%20(x86)/bluej/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+====
+
+====
+BlueJ run started: Sun Mar 17 18:22:26 CET 2019
+BlueJ version 4.2.0
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files (x86)\bluej\jdk
+----
+Detected language "polish" based on iso639-2 code "pol"
+Internal error: Unable to load definitions file: C:\Program Files (x86)\bluej\lib\polish\labels
+====
+
+====
+BlueJ run started: Sun Mar 17 18:22:27 CET 2019
+BlueJ version 4.2.0
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files (x86)\bluej\jdk
+----
+Detected language "polish" based on iso639-2 code "pol"
+Internal error: Unable to load definitions file: C:\Program Files (x86)\bluej\lib\polish\labels
+Opening project: C:\Users\Jan\Desktop\Programowanie\AiSD\Listy
+Opening project: C:\Users\Jan\Desktop\Programowanie\AiSD\Listy
+1552843356928: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+1552843361063: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Mon Mar 18 10:08:15 CET 2019
+BlueJ version 4.2.0
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files (x86)\bluej\jdk
+----
+Detected language "polish" based on iso639-2 code "pol"
+Internal error: Unable to load definitions file: C:\Program Files (x86)\bluej\lib\polish\labels
+Opening project: C:\Users\Jan\Desktop\Programowanie\AiSD\Listy
+1552900102923: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Mon Mar 18 22:39:09 CET 2019
+BlueJ version 4.2.0
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files (x86)\bluej\jdk
+----
+Detected language "polish" based on iso639-2 code "pol"
+Internal error: Unable to load definitions file: C:\Program Files (x86)\bluej\lib\polish\labels
+Opening project: C:\Users\Jan\Desktop\Programowanie\AiSD\Listy
+1552945155213: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Tue Mar 19 15:03:23 CET 2019
+BlueJ version 4.2.0
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files (x86)\bluej\jdk
+----
+Detected language "polish" based on iso639-2 code "pol"
+Internal error: Unable to load definitions file: C:\Program Files (x86)\bluej\lib\polish\labels
+Opening project: C:\Users\Jan\Desktop\Programowanie\AiSD\Listy
+1553004208920: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Mon Mar 25 10:25:11 CET 2019
+BlueJ version 4.2.0
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files (x86)\bluej\jdk
+----
+Detected language "polish" based on iso639-2 code "pol"
+Internal error: Unable to load definitions file: C:\Program Files (x86)\bluej\lib\polish\labels
+Opening project: C:\Users\Jan\Desktop\Programowanie\AiSD\Sowa_Micha³
+1553505917403: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Mon Mar 25 10:27:34 CET 2019
+BlueJ version 4.2.0
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files (x86)\bluej\jdk
+----
+Detected language "polish" based on iso639-2 code "pol"
+Internal error: Unable to load definitions file: C:\Program Files (x86)\bluej\lib\polish\labels
+Opening project: C:\Users\Jan\Desktop\Programowanie\AiSD\Sowa_Micha³
+1553506058790: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Tue Mar 26 20:33:14 CET 2019
+BlueJ version 4.2.0
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files (x86)\bluej\jdk
+----
+Detected language "polish" based on iso639-2 code "pol"
+Internal error: Unable to load definitions file: C:\Program Files (x86)\bluej\lib\polish\labels
+Opening project: C:\Users\Jan\Desktop\Programowanie\AiSD\Sowa_Micha³
+1553628799251: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+mar 26, 2019 8:39:09 PM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files%20(x86)/bluej/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+mar 26, 2019 8:39:51 PM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files%20(x86)/bluej/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+Exception in thread "JavaFX Application Thread" java.lang.NullPointerException
+	at javafx.scene.control.skin.MenuButtonSkinBase.lambda$new$7(MenuButtonSkinBase.java:188)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)

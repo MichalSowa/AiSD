@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Lista
+comment1.params=
+comment1.target=int\ rozmiar()
+comment2.params=
+comment2.target=void\ wyczysc()
+comment3.params=
+comment3.target=boolean\ czyPusta()
+comment4.params=wartosc
+comment4.target=void\ dodaj(java.lang.Object)
+comment5.params=wartosc\ indeks
+comment5.target=void\ dodaj(java.lang.Object,\ int)
+comment6.params=wartosc\ indeks
+comment6.target=void\ ustaw(java.lang.Object,\ int)
+comment7.params=indeks
+comment7.target=java.lang.Object\ daj(int)
+comment8.params=indeks
+comment8.target=java.lang.Object\ usun(int)
+comment9.params=wartosc
+comment9.target=boolean\ zawiera(java.lang.Object)
+numComments=10
